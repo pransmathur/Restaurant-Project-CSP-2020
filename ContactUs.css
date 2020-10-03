@@ -1,0 +1,38 @@
+body{
+  margin: 0px;
+  }
+
+  #topNav{
+  background-color: #2BC2B2;
+  height: 20%;
+  margin: 0px;
+  }
+
+  #topNav h1{
+    text-decoration: none;
+    font-family: serif;
+    font-size: 60px;
+    color: white;
+    padding-top: 30px
+  }
+
+  #topNav h1:hover{
+    background-color: #2BF9F2;
+    color: black;
+    font-weight: bold;
+    margin-right: 48px;
+    margin-left: 10px;
+  }
+
+  #midNav {
+    background-color: #ff9900;
+    margin-right: 230px;
+    margin-left: 230px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+p {
+  font-size: 30px;
+  font-weight: bolder;
+}
